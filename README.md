@@ -13,7 +13,7 @@ This react app is built as a tic-tac-toe quick test.
 
 ## How to use
 
-- Play here : https://scriptgeeky.github.io/tic-tac-toe
+- Play here : https://scriptgeeky.github.io/tic-tac-toe/
 
 ## Folder Structure
 

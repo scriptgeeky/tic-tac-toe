@@ -2,7 +2,7 @@
   "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://scriptgeeky.github.io/tic-tac-toe",
+  "homepage": "https://scriptgeeky.github.io/tic-tac-toe/",
   "dependencies": {
     "ajv": "^6.10.2",
     "react": "^16.10.2",
