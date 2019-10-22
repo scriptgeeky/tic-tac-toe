@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/scriptgeeky/tic-tac-toe.git/static/css/main.382f9f21.chunk.css",
+    "main.js": "/scriptgeeky/tic-tac-toe.git/static/js/main.dce142e0.chunk.js",
+    "main.js.map": "/scriptgeeky/tic-tac-toe.git/static/js/main.dce142e0.chunk.js.map",
+    "runtime-main.js": "/scriptgeeky/tic-tac-toe.git/static/js/runtime-main.ed1b5cc7.js",
+    "runtime-main.js.map": "/scriptgeeky/tic-tac-toe.git/static/js/runtime-main.ed1b5cc7.js.map",
+    "static/js/2.5b22e848.chunk.js": "/scriptgeeky/tic-tac-toe.git/static/js/2.5b22e848.chunk.js",
+    "static/js/2.5b22e848.chunk.js.map": "/scriptgeeky/tic-tac-toe.git/static/js/2.5b22e848.chunk.js.map",
+    "index.html": "/scriptgeeky/tic-tac-toe.git/index.html",
+    "precache-manifest.3132d81ef2d147ebdc667d768650169c.js": "/scriptgeeky/tic-tac-toe.git/precache-manifest.3132d81ef2d147ebdc667d768650169c.js",
+    "service-worker.js": "/scriptgeeky/tic-tac-toe.git/service-worker.js",
+    "static/css/main.382f9f21.chunk.css.map": "/scriptgeeky/tic-tac-toe.git/static/css/main.382f9f21.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed1b5cc7.js",
+    "static/js/2.5b22e848.chunk.js",
+    "static/css/main.382f9f21.chunk.css",
+    "static/js/main.dce142e0.chunk.js"
+  ]
+}
