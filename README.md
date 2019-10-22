@@ -18,18 +18,24 @@ This react app is built as a tic-tac-toe quick test.
 ## Folder Structure
 
 ```
-my-app/
+tic-tac-toe/
   README.md
   node_modules/
   package.json
   public/
     index.html
     favicon.ico
+    mnifest.json
+  Board/
+    Board.js
+  Square/
+    Square.js
   src/
-    App.css
-    App.js
-    App.test.js
+    Game.css
+    Game.js
+    Game.test.js
     index.css
     index.js
-    logo.svg
+    404.html
+    registerServiceWorker.js
 ```
