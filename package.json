@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://scriptgeeky.github.io/tic-tac-toe/",
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "^3.2.0"
